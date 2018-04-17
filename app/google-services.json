@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "746439031641",
+    "firebase_url": "https://hci-project-5aaf7.firebaseio.com",
+    "project_id": "hci-project-5aaf7",
+    "storage_bucket": "hci-project-5aaf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746439031641:android:886dced3cc4a9575",
+        "android_client_info": {
+          "package_name": "com.example.bilal.hci_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746439031641-qskfqaumoc637fo6ljn6pmibc6t4ab05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bilal.hci_project",
+            "certificate_hash": "ae831cea429466f63b93d96f666d455c0b5a4fa2"
+          }
+        },
+        {
+          "client_id": "746439031641-6oldjfeorj5bni6inf2ag12fcdsuhmhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd82RPatA8DF1WBevNjLczPXuTTYQUrqY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746439031641-6oldjfeorj5bni6inf2ag12fcdsuhmhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
